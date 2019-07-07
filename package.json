@@ -1,0 +1,23 @@
+{
+  "name": "line-bot-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobu222/line-bot-test-with-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nobu222/line-bot-test-with-node.js/issues"
+  },
+  "homepage": "https://github.com/nobu222/line-bot-test-with-node.js#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.0",
+    "express": "^4.17.1"
+  }
+}
